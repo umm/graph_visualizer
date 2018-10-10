@@ -1,0 +1,12 @@
+{
+    "name": "Unity.GraphVisualizer.Editor",
+    "references": [
+        "Unity.GraphVisualizer"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
