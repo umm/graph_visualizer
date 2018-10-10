@@ -1,6 +1,6 @@
 {
   "name": "@umm/graph_visualizer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Visualizer for your Playable graphs",
   "homepage": "https://github.com/umm/graph_visualizer",
   "bugs": {
